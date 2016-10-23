@@ -1,0 +1,1 @@
+Download proper gensort binary from http://www.ordinal.com/gensort.html., and use gen_partitions.py for easy input generation.
